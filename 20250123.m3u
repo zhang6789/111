@@ -5,11 +5,13 @@ CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.143/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.65.151/PLTV/88888888/224/3221225816/1.m3u8
-CCTV1 4M 1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
+CCTV1,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV1 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV1 5M1080HEVC,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV3,http://39.134.65.141/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV4,http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
 CCTV5,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV5,http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
@@ -36,6 +38,7 @@ CCTV16,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV17,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.183/PLTV/88888888/224/3221225708/1.m3u8
 CETV1,http://39.134.67.108/PLTV/88888888/224/3221225563/1.m3u8
+CETV2,http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226425/index.m3u8
 CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 卫视,#genre#
 黑龙江卫视,http://39.134.67.108/PLTV/88888888/224/3221225994/1.m3u8
@@ -93,14 +96,28 @@ CETV4,http://39.134.67.108/PLTV/88888888/224/3221225750/1.m3u8
 睛彩篮球,http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 卡酷少儿,http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8
 黑龙江,#genre#
-黑龙江影视,http://39.135.133.167/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226298/index.m3u8
-黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
-黑龙江新闻法治,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
-黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
-黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
-黑龙江农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
-黑龙江,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+黑龙江卫视 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226421
+黑龙江农业科教 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226492
+黑龙江少儿 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226371
+黑龙江影视 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226365
+黑龙江文体 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226424
+黑龙江新闻法治 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226368
+黑龙江都市 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226427
+哈尔滨影视 4M576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225760
+哈尔滨影视 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226552
+哈尔滨新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226558
+哈尔滨生活 4M576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225762
+哈尔滨生活 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226526
+伊春新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226416
+双鸭山新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226502
+大庆教育 4M576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226523
+漠河 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226535
+牡丹江新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226422
+鸡西公共 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226481
+鸡西新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226410
+鹤岗新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226496
+齐齐哈尔新闻综合 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226413
+齐齐哈尔经济法治 576,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226493
 4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8
 4K,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000197/index.m3u8
 4K,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8
